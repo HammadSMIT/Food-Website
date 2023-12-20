@@ -1,0 +1,113 @@
+@font-face {
+    font-family: "Hammad";
+    src: url(./Poppins-Medium.ttf);
+}
+
+.navbar{
+    background-color:#df2452 !important;
+}
+
+.btn-danger{
+    margin-right: 20px !important;
+}
+.btn-danger:hover{
+    background-color: #ffffff !important;
+    color: #df2452 !important;
+}
+
+.container-fluid button{
+    background-color: #e0476d;
+    font-family: Hammad;
+    font-size: 20px !important;
+    /* margin-right: 100px !important; */
+   
+}
+
+.container-fluid :hover{
+    cursor: pointer;
+}
+
+.container-fluid img{
+    width: 250px !important;
+}
+
+.container-fluid img:hover{
+    cursor: pointer !important;
+}
+
+.mainContainer{
+  margin: auto;    
+}
+
+
+ .img1{
+   margin-left: 800px !important;
+   margin-top: -150px !important;
+}
+
+.mainContainer .navbar{
+    position: sticky !important;
+    top: 0 !important;
+}
+
+.container-fluid h1{
+    color: #ffffff !important;
+}
+
+.centreText h1{
+    margin-top: 60px !important;
+    margin-left: 80px !important ;
+    font-size: 50px !important;
+}
+
+.text-center{
+    background-color: #ff1a53 !important;
+}
+.btn-floating{
+    color: #ffffff !important;
+}
+.form{
+    display: flex !important;
+    justify-content: center !important;
+    margin: auto !important;
+    margin-top: 30px !important;
+    width: 400px !important;
+    height: 280px !important;
+}
+
+.centreText form{
+   
+    margin-top: 70px !important;
+    margin-left: 200px !important;
+}
+
+.img2{
+    margin-left: 800px !important;
+   margin-top: -500px !important;
+   
+}
+
+form  input{
+    width: 400px !important;
+    height: 35px !important;
+    border-radius: 10px !important;
+    padding: 20px !important;
+    
+
+}
+
+form  button{
+    width: 400px !important;
+    background-color: #ff1a53 !important;
+    font-weight: 600 !important;
+}
+
+form button:hover{
+    background-color: #ffffff !important;
+    color: #ff1a53 !important;
+}
+
+.panda{
+    margin-bottom: 0;
+    margin-top: -400px !important;
+}
